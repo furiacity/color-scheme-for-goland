@@ -1,2 +1,2 @@
-# color-scheme-for-goland
-Some color Shechemes
+# Color Scheme Gogland
+Inspired by the go play space.
